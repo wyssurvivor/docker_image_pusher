@@ -1,3 +1,2 @@
 zhufuyi/sponge:latest
-python:3.10-slim
-mysql:latest
+
